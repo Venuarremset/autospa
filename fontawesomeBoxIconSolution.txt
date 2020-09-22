@@ -1,0 +1,11 @@
+
+Step1: Go to fontawesome.com, choose your icon html code and use in your index.html file
+Step2: Click start on fontawesome.com home page
+Step3: Scroll down and click Download under 'Other ways to Use'
+Step4: Unzip it and click it and go to css folder inside the main folder
+Step5: copy all.min.css file and paste it in your css folder(if any) project level
+Step6: Go to your index.html file and under head tag paste this: <link rel="stylesheet" href="all.min.css">
+step7: Go to main folder(downloaded folder) and copy webfonts folder and paste it at .html, .css level of your project folder
+step8: go to fontawesome.com and click start and enter your email id and click 'create & use this kit'
+step9: follow the instructions from your email and get the code which will be between your <script> tag and copy and paste this entire script onto just before the </body>
+step10: refresh and find yourself the required icons :)
